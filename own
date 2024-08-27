@@ -999,7 +999,6 @@ DOMAIN-SUFFIX,google.com.tw,Proxy,force-remote-dns
 DOMAIN-SUFFIX,google.org,Proxy,force-remote-dns
 DOMAIN-SUFFIX,googleapis.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,googlecode.com,Proxy,force-remote-dns
-DOMAIN-SUFFIX,translate.google.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,googledrive.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,googlegroups.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,googlehosted.com,Proxy,force-remote-dns
