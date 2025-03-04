@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,baidu.com,DIRECT
 DOMAIN-SUFFIX,smzdm.com,DIRECT
 DOMAIN-SUFFIX,legoloto.us,DIRECT
 DOMAIN-SUFFIX,v2ex.com,Proxy,force-remote-dns
+DOMAIN-SUFFIX,tiktok.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,cdninstagram.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,0rz.tw,Proxy,force-remote-dns
 DOMAIN-SUFFIX,0to255.com,Proxy,force-remote-dns
