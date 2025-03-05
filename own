@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,legoloto.us,DIRECT
 DOMAIN-SUFFIX,v2ex.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,tiktok.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,tiktokv.com,Proxy,force-remote-dns
+DOMAIN-SUFFIX,tiktokv.us,Proxy,force-remote-dns
 DOMAIN-SUFFIX,byteoversea.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,ibytedtos.com,Proxy,force-remote-dns
 DOMAIN-SUFFIX,ibyteimg.com,Proxy,force-remote-dns
