@@ -3074,6 +3074,8 @@ DOMAIN-SUFFIX,tjs.sjs.sinajs.cn,REJECT
 DOMAIN,sax.sina.cn,REJECT
 DOMAIN,beacon.sina.com.cn,REJECT
 
+DOMAIN-SUFFIX,pv.sohu.com,REJECT
+
 # QQ
 DOMAIN-SUFFIX,act.qq.com,REJECT
 DOMAIN-SUFFIX,adsfile.qq.com,REJECT
